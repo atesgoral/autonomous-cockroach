@@ -12,5 +12,5 @@ A Lego and Arduino robotic cockroach that runs away from light
 
 * Arduino Uno
 * IKEA [Smila Bagge](http://www.ikea.com/us/en/catalog/products/70072871/) children's wall lamp
-* Miscellaneous LEGO Technic pieces from the combined collection of the pieces you saved from your childhood and the 1,000,000 more pieces your kid has.
+* Miscellaneous LEGO Technic pieces from the combined collection of the pieces you saved from your childhood and the 1,000,000 pieces your kid has scattered around the house.
 * Miscellaneous electronics parts (see [Fritzing diagram](Autonomous Cockroach.fzz)).

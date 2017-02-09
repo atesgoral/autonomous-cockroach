@@ -2,7 +2,7 @@
 
 A Lego and Arduino robotic cockroach that runs away from light
 
-[![In Action](https://j.gifs.com/0R3mBv.gif)](https://youtu.be/rUeqSY2ZfEM?list=PL8vd3SY6nWgNnAt1ZeeDBiQZaWnJG4UQV)
+<a href="https://youtu.be/rUeqSY2ZfEM?list=PL8vd3SY6nWgNnAt1ZeeDBiQZaWnJG4UQV"><img src="https://j.gifs.com/0R3mBv.gif"></a>
 
 [![The Belly](https://j.gifs.com/M8B2KO.gif)](https://youtu.be/l8UyhBrsYiA?list=PL8vd3SY6nWgNnAt1ZeeDBiQZaWnJG4UQV)
 

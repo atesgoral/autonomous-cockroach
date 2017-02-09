@@ -14,3 +14,6 @@ A Lego and Arduino robotic cockroach that runs away from light
 * Miscellaneous electronics parts (see [Fritzing diagram](Autonomous Cockroach.fzz)).
 
 [![Motor Control](https://j.gifs.com/v2Jzkm.gif)](https://youtu.be/mseh-yKrJKQ?list=PL8vd3SY6nWgNnAt1ZeeDBiQZaWnJG4UQV)
+
+![Fritzing Diagram](https://cloud.githubusercontent.com/assets/50832/22799810/12d5549e-eed5-11e6-94c9-4b24f98c56be.png)
+

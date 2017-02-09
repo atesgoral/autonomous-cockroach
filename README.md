@@ -23,7 +23,7 @@ A Lego and Arduino robotic cockroach that runs away from light
 
 ## Vanity Shots
 
-I'm especially proud of the custom LEGO drive train I made, with rack-and-pinion steering, and with the drive and servo motors sitting in a very compact formation.
+I'm especially proud of the custom LEGO drive train I made, with rack-and-pinion steering, and with the drive and servo motors sitting in a very compact formation. It's also a modular design where the cover, the circuit and the circuit mounting rack can be removed and put back on easily.
 
 ![dsc_0269](https://cloud.githubusercontent.com/assets/50832/22801011/34e3b2b6-eed9-11e6-8f67-d0fe1ccd935e.jpg)
 ![dsc_0272](https://cloud.githubusercontent.com/assets/50832/22801008/34cf7ce2-eed9-11e6-9426-4870d8cbfef6.jpg)
